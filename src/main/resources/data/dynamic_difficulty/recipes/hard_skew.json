@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "X#X",
+    " C "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glowstone_dust"
+    },
+	"C": {
+	  "item": "minecraft:red_dye"
+	},
+    "X": {
+      "item": "minecraft:rose_bush"
+    }
+  },
+  "result": {
+    "item": "dynamic_difficulty:hard_skew",
+    "count": 2
+  }
+}

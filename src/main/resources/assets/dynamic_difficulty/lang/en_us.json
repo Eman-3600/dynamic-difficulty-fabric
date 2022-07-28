@@ -1,0 +1,6 @@
+{
+  "item.dynamic_difficulty.easy_skew": "Essence of Ease",
+  "item.dynamic_difficulty.hard_skew": "Essence of Difficulty",
+  "item.dynamic_difficulty.meter": "Difficultometer",
+  "item.dynamic_difficulty.meter.display": "You: %s - World: %s"
+}

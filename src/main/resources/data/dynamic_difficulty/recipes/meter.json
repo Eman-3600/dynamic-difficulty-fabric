@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:compass"
+    },
+	{
+      "item": "dynamic_difficulty:easy_skew"
+    },
+	{
+      "item": "dynamic_difficulty:hard_skew"
+    }
+  ],
+  "result": {
+    "item": "dynamic_difficulty:meter",
+    "count": 1
+  }
+}
